@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InkRendererDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "InkRendererDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
